@@ -10,13 +10,17 @@ In order to run the program in your pc you need to have ruby installed in your l
 
 **Set Up**
 
-In order to use this application as a console game you should follow the next steps:
+To run the tests you just need to follow the next steps:
 
 1. clone the project into your machine
 2. open the console and go to the projects folder
-3. Open the `lcdTest.rb`
-4. Uncomment the last lines as it is indicated and save
-5. Run `ruby lcdTest.rb` in your console
+3. run `ruby lcdTest_testing.rb`
+
+After that, to use this application as a console game you should follow the next steps:
+
+1. Open the `lcdTest.rb`
+2. Uncomment the last lines as it is indicated and save
+3. Run `ruby lcdTest.rb` in your console
 
 ### That's it!
 
