@@ -17,7 +17,6 @@
 
 #The whole numbers will be displayed region by region.
 
-
 class LcdPrinter
 
   attr_accessor :user_input
