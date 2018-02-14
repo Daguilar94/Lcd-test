@@ -17,6 +17,12 @@
 
 #The whole numbers will be displayed region by region.
 
+#IMPORTANT:
+#In the original README.md file of the test where the exercise where explained i found some inconsistencies between the
+#explanation and the example, mainly in the part that it said:
+#'Cada dígito debe ocupar exactamente size+2 columnas y 2*size + 3 filas.'.
+#I took the example as the base for my solution. Thank you.
+
 class LcdPrinter
 
   attr_accessor :user_input
