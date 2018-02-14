@@ -4,7 +4,7 @@
 #Each digit is splited in 5 regions: three regions for horizontal segments (upper, center and lower segments) and two
 #regions where the vertical segments will be displayed.
 
-#The regions for horizontal segments have have 3 options: on, off or none.
+#The regions for horizontal segments have have 3 options: on or off.
 #On: Displays the segments with spaces between.
 #Off: Doesnt't display de segment, but white spaces instead.
 
