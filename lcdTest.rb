@@ -7,7 +7,6 @@
 #The regions for horizontal segments have have 3 options: on, off or none.
 #On: Displays the segments with spaces between.
 #Off: Doesnt't display de segment, but white spaces instead.
-#None: Dosen't display anything in the region.
 
 #The regions for vertical segments will have 4 options: right, left, both or none.
 # Right: Displays a single right vertical segment in the region.
